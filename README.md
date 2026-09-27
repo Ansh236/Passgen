@@ -88,12 +88,11 @@ An automated test suite is provided to verify generation length and strength rat
 
 SCREENSHOTS
 -----------
-1. Main Menu & Navigation:
-![Main Menu](/home/dexter/Documents/PassGen/assets/swappy-20260927_211628.png)
+1. Application Launch & Main Menu:
+[![Main Menu](assets/swappy-20260927_211628.png)](assets/swappy-20260927_211628.png)
 
-2. Password Generation (Custom Length):
-![Password Generation](/home/dexter/Documents/PassGen/assets/swappy-20260927_211727.png)
+2. Password Generation:
+[![Password Generation](assets/swappy-20260927_211727.png)](assets/swappy-20260927_211727.png)
 
-3. Password Strength Checker (Weak / Medium):
-![Strength Checker Weak-Medium](/home/dexter/Documents/PassGen/assets/swappy-20260927_211819.png)
-
+3. Password Strength Checker:
+[![Password Strength Checker](assets/swappy-20260927_211819.png)](assets/swappy-20260927_211819.png)
