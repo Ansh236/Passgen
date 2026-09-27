@@ -44,13 +44,16 @@ TECHNOLOGIES & TOOLS USED
 
 PROJECT STRUCTURE
 -----------------
+```text
 PassGen/
-├── assets/             Terminal execution screenshots
-├── passgen.py          Core application script (generation, checking, CLI)
-├── testpassgen.py      Automated unit tests for validation
-├── statement.md        Problem statement, scope, target users, and features
-├── .gitignore          Excludes Python cache files (__pycache__)
-└── README.md           Project overview, setup instructions, and documentation
+│
+├── assets/             # Terminal run screenshots
+├── .gitignore          # Excludes Python bytecode and cache files (__pycache__)
+├── passgen.py          # Core script: CSPRNG generator, analyzer, and CLI
+├── testpassgen.py      # Automated unit tests using Python's unittest module
+├── statement.md        # Problem statement, scope, target users, and features
+└── README.md           # Setup instructions, features, and run commands
+```
 
 
 STEPS TO INSTALL & RUN THE PROJECT
