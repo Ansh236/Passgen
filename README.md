@@ -56,7 +56,7 @@ PassGen/
 STEPS TO INSTALL & RUN THE PROJECT
 ----------------------------------
 1. Clone the repository:
-   git clone https://github.com/<your-username>/PassGen.git
+   git clone https://github.com/Ansh236/PassGen.git
    cd PassGen
 
 2. Verify Python 3 installation:
